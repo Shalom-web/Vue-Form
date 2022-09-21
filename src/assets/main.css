@@ -1,0 +1,12 @@
+@import "./base.css";
+
+#app {
+  margin: 60px;
+  text-align: center;
+  color: #2c3e50;
+  font-weight: normal;
+}
+body{
+  margin: 0;
+  background: #eee;
+}
